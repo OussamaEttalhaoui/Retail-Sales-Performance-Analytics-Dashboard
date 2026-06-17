@@ -131,7 +131,7 @@ The dashboard includes the following business metrics:
 Measures total revenue generated.
 
 ```DAX
-Total Sales = SUM(superstore_raw[sales])
+Total Sales = SUM(SampleSuperstore[sales])
 ```
 
 ---
@@ -141,7 +141,7 @@ Total Sales = SUM(superstore_raw[sales])
 Measures total profit generated.
 
 ```DAX
-Total Profit = SUM(superstore_raw[profit])
+Total Profit = SUM(SampleSuperstore[profit])
 ```
 
 ---
@@ -163,7 +163,7 @@ Counts total transactions.
 
 ```DAX
 Total Orders =
-COUNTROWS(superstore_raw)
+COUNTROWS(SampleSuperstore)
 ```
 
 ---
