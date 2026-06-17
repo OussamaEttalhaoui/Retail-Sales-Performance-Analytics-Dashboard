@@ -372,8 +372,9 @@ This project demonstrates practical skills in:
 ---
 
 # 📸 Dashboard Preview
-
-(Add screenshots here)
+<img width="850" height="482" alt="executive_dashboard" src="https://github.com/user-attachments/assets/ca41b55b-2eac-459d-b594-9b1d53e80f8c" />
+<img width="831" height="471" alt="product_analysis" src="https://github.com/user-attachments/assets/616b8278-61c2-4da5-b1b0-9a57bb97405f" />
+<img width="829" height="472" alt="customer regional_analysis" src="https://github.com/user-attachments/assets/313e2d6c-b91a-4330-9ac1-8048abea9d9a" />
 
 Example:
 
