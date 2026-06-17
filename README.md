@@ -257,10 +257,6 @@ Understand geographic performance and customer segment behavior.
 
 ## Main Visualizations:
 
-### Sales by Region
-
-Compares revenue contribution between regions.
-
 ### Profit by Region
 
 Identifies regional profitability differences.
