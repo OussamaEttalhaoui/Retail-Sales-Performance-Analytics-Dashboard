@@ -331,7 +331,7 @@ Retail-Sales-Performance-Analytics/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Retail-Sales-Performance-Analytics.git
+git clone https://github.com/yourusername/Retail-Sales-Performance-Analytics.git](https://github.com/OussamaEttalhaoui/Retail-Sales-Performance-Analytics-Dashboard.git
 ```
 
 ### 2. Open Power BI Dashboard
@@ -385,34 +385,6 @@ Screenshots/
 ```
 
 ---
-
-# 👤 Author
-
-**Oussama Ettalhaoui**
-
-Master's Degree in Computer Engineering and Data Analysis
-
-Technical Skills:
-
-* SQL
-* Power BI
-* Data Analysis
-* Python
-* Machine Learning
-* Full Stack Development
-
----
-
-# 🔮 Future Improvements
-
-Possible improvements:
-
-* Add time-series analysis with order dates
-* Build a star schema data model
-* Add automated data refresh
-* Connect Power BI directly to a database
-* Add predictive sales forecasting
-* Implement advanced customer segmentation
 
 ```
 ```
