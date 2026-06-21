@@ -372,16 +372,7 @@ This project demonstrates practical skills in:
 <img width="831" height="471" alt="product_analysis" src="https://github.com/user-attachments/assets/616b8278-61c2-4da5-b1b0-9a57bb97405f" />
 <img width="829" height="472" alt="customer regional_analysis" src="https://github.com/user-attachments/assets/313e2d6c-b91a-4330-9ac1-8048abea9d9a" />
 
-Example:
 
-```
-Screenshots/
-├── executive_dashboard.png
-├── product_analysis.png
-└── regional_analysis.png
-```
-
----
 
 ```
 ```
