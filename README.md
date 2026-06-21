@@ -6,7 +6,7 @@
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 This project focuses on analyzing retail sales data to extract meaningful business insights and build an interactive Business Intelligence dashboard.
 
